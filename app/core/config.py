@@ -22,6 +22,10 @@ class Settings(BaseSettings):
     # AI
     GOOGLE_API_KEY: str = ""
     GROQ_API_KEY: str = ""
+
+    # Google OAuth
+    GOOGLE_CLIENT_ID: str = ""
+    GOOGLE_CLIENT_SECRET: str = ""
     
     # CORS — add your Vercel URL via CORS_ORIGINS env var in production
     CORS_ORIGINS: list = ["http://localhost:5173", "http://localhost:3000"]

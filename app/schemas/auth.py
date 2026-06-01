@@ -28,6 +28,10 @@ class UserLogin(BaseModel):
     password: str
 
 
+class GoogleAuthRequest(BaseModel):
+    credential: str
+
+
 class UserResponse(BaseModel):
     id: str
     email: str
@@ -38,6 +42,7 @@ class UserResponse(BaseModel):
     subscription_tier: str
     theme: str
     created_at: datetime
+    avatar_url: Optional[str] = None
 
     class Config:
         from_attributes = True
