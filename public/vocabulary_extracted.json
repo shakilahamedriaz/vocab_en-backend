@@ -1,0 +1,4004 @@
+[
+  {
+    "word": "Active",
+    "pos": "Adjective",
+    "synonyms": [
+      "Energetic",
+      "Agile"
+    ],
+    "meaning_bengali": "সক্রিয়"
+  },
+  {
+    "word": "Agility",
+    "pos": "Noun",
+    "synonyms": [
+      "Quickness"
+    ],
+    "meaning_bengali": "তৎপরতা, দ্রুততা"
+  },
+  {
+    "word": "Attire",
+    "pos": "Noun",
+    "synonyms": [
+      "Clothing"
+    ],
+    "meaning_bengali": "পপাশাক"
+  },
+  {
+    "word": "Awful",
+    "pos": "Adjective",
+    "synonyms": [
+      "Dreadful",
+      "Atrocious"
+    ],
+    "meaning_bengali": "ভয়াবহ, আতঙ্কজেক"
+  },
+  {
+    "word": "Assets",
+    "pos": "Noun",
+    "synonyms": [
+      "Wealth"
+    ],
+    "meaning_bengali": "সম্পদ"
+  },
+  {
+    "word": "Amateur",
+    "pos": "Noun",
+    "synonyms": [
+      "Beginner"
+    ],
+    "meaning_bengali": "অনপশাদার"
+  },
+  {
+    "word": "Assault",
+    "pos": "Verb",
+    "synonyms": [
+      "Attack"
+    ],
+    "meaning_bengali": "লাঞ্ছো করা"
+  },
+  {
+    "word": "Abroad",
+    "pos": "Adverb",
+    "synonyms": [
+      "Overseas"
+    ],
+    "meaning_bengali": "ক্লবনদনশ"
+  },
+  {
+    "word": "Adversity",
+    "pos": "Noun",
+    "synonyms": [
+      "Difficulty"
+    ],
+    "meaning_bengali": "প্রক্লতকূলতা"
+  },
+  {
+    "word": "Allure",
+    "pos": "Verb",
+    "synonyms": [
+      "Attract"
+    ],
+    "meaning_bengali": "বিম োবিত করো"
+  },
+  {
+    "word": "Admit",
+    "pos": "Verb",
+    "synonyms": [
+      "Confess"
+    ],
+    "meaning_bengali": "স্বীকার করা"
+  },
+  {
+    "word": "Amiable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Friendly"
+    ],
+    "meaning_bengali": "আন্তক্লরক"
+  },
+  {
+    "word": "Annoy",
+    "pos": "Verb",
+    "synonyms": [
+      "Irk",
+      "Vex",
+      "Irritate"
+    ],
+    "meaning_bengali": "ক্লবরক্ত করা"
+  },
+  {
+    "word": "Aggressive",
+    "pos": "Adjective",
+    "synonyms": [
+      "Hostile",
+      "Antagonistic"
+    ],
+    "meaning_bengali": "আিমণাত্মক"
+  },
+  {
+    "word": "Ambition",
+    "pos": "Noun",
+    "synonyms": [
+      "Aspiration"
+    ],
+    "meaning_bengali": "উচ্চাকাঙ্ক্ষা"
+  },
+  {
+    "word": "Anxious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Nervous"
+    ],
+    "meaning_bengali": "উক্লিগ্ন"
+  },
+  {
+    "word": "Achieve",
+    "pos": "Verb",
+    "synonyms": [
+      "Accomplish"
+    ],
+    "meaning_bengali": "অজজে"
+  },
+  {
+    "word": "Aid",
+    "pos": "Noun",
+    "synonyms": [
+      "Assistance"
+    ],
+    "meaning_bengali": "সাহায্য"
+  },
+  {
+    "word": "Amount",
+    "pos": "Noun",
+    "synonyms": [
+      "Quantity"
+    ],
+    "meaning_bengali": "পক্লরমাণ"
+  },
+  {
+    "word": "Adroit",
+    "pos": "Adjective",
+    "synonyms": [
+      "Skillful"
+    ],
+    "meaning_bengali": "েক্ষ"
+  },
+  {
+    "word": "Adequate",
+    "pos": "Adjective",
+    "synonyms": [
+      "Sufficient"
+    ],
+    "meaning_bengali": "পয্জাপ্ত"
+  },
+  {
+    "word": "Alteration",
+    "pos": "Noun",
+    "synonyms": [
+      "Change"
+    ],
+    "meaning_bengali": "পক্লরবতজে"
+  },
+  {
+    "word": "Ambiance",
+    "pos": "Noun",
+    "synonyms": [
+      "Environment"
+    ],
+    "meaning_bengali": "পবরমিশ"
+  },
+  {
+    "word": "Allow",
+    "pos": "Verb",
+    "synonyms": [
+      "Permit"
+    ],
+    "meaning_bengali": "অেুমক্লত পদওয়া"
+  },
+  {
+    "word": "Amicable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Friendly",
+      "Amiable"
+    ],
+    "meaning_bengali": "বন্ধুত্বপূণজ"
+  },
+  {
+    "word": "Astonishing",
+    "pos": "Adjective",
+    "synonyms": [
+      "Surprising"
+    ],
+    "meaning_bengali": "আশ্চয্জজেক"
+  },
+  {
+    "word": "Ambitious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Aspiring"
+    ],
+    "meaning_bengali": "উচ্চাকাঙ্ক্ষী"
+  },
+  {
+    "word": "Accord",
+    "pos": "Noun",
+    "synonyms": [
+      "Agreement"
+    ],
+    "meaning_bengali": "চুক্তি"
+  },
+  {
+    "word": "Abode",
+    "pos": "Noun",
+    "synonyms": [
+      "Residence"
+    ],
+    "meaning_bengali": "িোসস্থোন"
+  },
+  {
+    "word": "Accurate",
+    "pos": "Adjective",
+    "synonyms": [
+      "Correct"
+    ],
+    "meaning_bengali": "ক্লেভজুল"
+  },
+  {
+    "word": "Arrive",
+    "pos": "Verb",
+    "synonyms": [
+      "Reach"
+    ],
+    "meaning_bengali": "পপ ৌঁছানো"
+  },
+  {
+    "word": "Angry",
+    "pos": "Adjective",
+    "synonyms": [
+      "Furious"
+    ],
+    "meaning_bengali": "রাগ"
+  },
+  {
+    "word": "Abandon",
+    "pos": "Verb",
+    "synonyms": [
+      "Desert",
+      "Leave"
+    ],
+    "meaning_bengali": "পক্লরতযাগ/বজজে করা"
+  },
+  {
+    "word": "Add",
+    "pos": "Verb",
+    "synonyms": [
+      "Increase"
+    ],
+    "meaning_bengali": "পয্াগ করা"
+  },
+  {
+    "word": "Answer",
+    "pos": "Verb",
+    "synonyms": [
+      "Respond"
+    ],
+    "meaning_bengali": "উত্তর পদওয়া"
+  },
+  {
+    "word": "Alike",
+    "pos": "Adjective",
+    "synonyms": [
+      "Same"
+    ],
+    "meaning_bengali": "অেুরূপ"
+  },
+  {
+    "word": "Ask",
+    "pos": "Verb",
+    "synonyms": [
+      "Inquire"
+    ],
+    "meaning_bengali": "প্রশ্ন করা"
+  },
+  {
+    "word": "Adamant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Firm"
+    ],
+    "meaning_bengali": "অেমেীয়"
+  },
+  {
+    "word": "Appreciation",
+    "pos": "Noun",
+    "synonyms": [
+      "Praise"
+    ],
+    "meaning_bengali": "প্রশংসা"
+  },
+  {
+    "word": "Agree",
+    "pos": "Verb",
+    "synonyms": [
+      "Concur"
+    ],
+    "meaning_bengali": "একমত হওয়া"
+  },
+  {
+    "word": "Approve",
+    "pos": "Verb",
+    "synonyms": [
+      "Accept"
+    ],
+    "meaning_bengali": "অেুনমাদে পদওয়া"
+  },
+  {
+    "word": "Acute",
+    "pos": "Adjective",
+    "synonyms": [
+      "Severe",
+      "Critical"
+    ],
+    "meaning_bengali": "তীব্র"
+  },
+  {
+    "word": "Adept",
+    "pos": "Adjective",
+    "synonyms": [
+      "Expert",
+      "Proficient",
+      "Skilled"
+    ],
+    "meaning_bengali": "পোরেশী"
+  },
+  {
+    "word": "Adulation",
+    "pos": "Noun",
+    "synonyms": [
+      "Admiration"
+    ],
+    "meaning_bengali": "শ্রদ্ধো"
+  },
+  {
+    "word": "Affable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Friendly",
+      "Amiable",
+      "Genial"
+    ],
+    "meaning_bengali": "িন্ধুত্বপূর্থ"
+  },
+  {
+    "word": "Agrarian",
+    "pos": "Adjective",
+    "synonyms": [
+      "Rural",
+      "Agricultural"
+    ],
+    "meaning_bengali": "গ্রো ীর্"
+  },
+  {
+    "word": "Alienate",
+    "pos": "Verb",
+    "synonyms": [
+      "Separate",
+      "Isolate"
+    ],
+    "meaning_bengali": "বিচ্ছিন্ন করো"
+  },
+  {
+    "word": "Allege",
+    "pos": "Verb",
+    "synonyms": [
+      "Claim",
+      "Proclaim",
+      "Assert"
+    ],
+    "meaning_bengali": "েোবি করো"
+  },
+  {
+    "word": "Alleviate",
+    "pos": "Verb",
+    "synonyms": [
+      "Relieve",
+      "Lessen",
+      "Assuage"
+    ],
+    "meaning_bengali": "উপশ করো"
+  },
+  {
+    "word": "Allude",
+    "pos": "Verb",
+    "synonyms": [
+      "Imply"
+    ],
+    "meaning_bengali": "ইক্তিত দেওযো"
+  },
+  {
+    "word": "Ameliorate",
+    "pos": "Verb",
+    "synonyms": [
+      "Improve"
+    ],
+    "meaning_bengali": "উন্নত করো"
+  },
+  {
+    "word": "Animosity",
+    "pos": "Noun",
+    "synonyms": [
+      "Hostility",
+      "Antagonism"
+    ],
+    "meaning_bengali": "শত্রুতো"
+  },
+  {
+    "word": "Antagonism",
+    "pos": "Noun",
+    "synonyms": [
+      "Hostility",
+      "Animosity"
+    ],
+    "meaning_bengali": "শত্রুতো"
+  },
+  {
+    "word": "Archetype",
+    "pos": "Noun",
+    "synonyms": [
+      "Epitome"
+    ],
+    "meaning_bengali": "আেশথ উেোিরর্"
+  },
+  {
+    "word": "Aversion",
+    "pos": "Noun",
+    "synonyms": [
+      "Dislike"
+    ],
+    "meaning_bengali": "দকোমনো বকছু অপছন্দ করো"
+  },
+  {
+    "word": "Behemoth",
+    "pos": "Adjective",
+    "synonyms": [
+      "Enormous",
+      "Powerful"
+    ],
+    "meaning_bengali": "বিশোে"
+  },
+  {
+    "word": "Belittle",
+    "pos": "Verb",
+    "synonyms": [
+      "Insult",
+      "Trivialize"
+    ],
+    "meaning_bengali": "তুিতোচ্ছিেয করো"
+  },
+  {
+    "word": "Benign",
+    "pos": "Adjective",
+    "synonyms": [
+      "Harmless"
+    ],
+    "meaning_bengali": "যো ক্ষবতকর নয"
+  },
+  {
+    "word": "Besmirch",
+    "pos": "Verb",
+    "synonyms": [
+      "Tarnish",
+      "Taint",
+      "Spoil"
+    ],
+    "meaning_bengali": "ক্ষবত করো"
+  },
+  {
+    "word": "Bifurcate",
+    "pos": "Verb",
+    "synonyms": [
+      "Divide"
+    ],
+    "meaning_bengali": "ভোে িময যোওযো"
+  },
+  {
+    "word": "Blatant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Open",
+      "Overt",
+      "Evident"
+    ],
+    "meaning_bengali": "প্রকোশয"
+  },
+  {
+    "word": "Boisterous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Lively",
+      "Animated"
+    ],
+    "meaning_bengali": "প্রোর্িন্ত"
+  },
+  {
+    "word": "Bout",
+    "pos": "Noun",
+    "synonyms": [
+      "Spell",
+      "Period",
+      "Time",
+      "Phase"
+    ],
+    "meaning_bengali": "বনবেথষ্ট স য ধমর"
+  },
+  {
+    "word": "Bountiful",
+    "pos": "Adjective",
+    "synonyms": [
+      "Abundant",
+      "Plentiful",
+      "Ample"
+    ],
+    "meaning_bengali": "প্রচুর"
+  },
+  {
+    "word": "Bravado",
+    "pos": "Noun",
+    "synonyms": [
+      "Boldness"
+    ],
+    "meaning_bengali": "িোিোেুবর"
+  },
+  {
+    "word": "Brevity",
+    "pos": "Noun",
+    "synonyms": [
+      "Conciseness",
+      "Succinctness"
+    ],
+    "meaning_bengali": "সংক্তক্ষপ্ততো"
+  },
+  {
+    "word": "Beseech",
+    "pos": "Verb",
+    "synonyms": [
+      "Implore",
+      "Beg"
+    ],
+    "meaning_bengali": "ব নবত করো"
+  },
+  {
+    "word": "Beneficial",
+    "pos": "Adjective",
+    "synonyms": [
+      "Helpful",
+      "Useful"
+    ],
+    "meaning_bengali": "উপকারী"
+  },
+  {
+    "word": "Before",
+    "pos": "Adverb",
+    "synonyms": [
+      "Previously"
+    ],
+    "meaning_bengali": "আনগ"
+  },
+  {
+    "word": "Bizarre",
+    "pos": "Adjective",
+    "synonyms": [
+      "Eccentric",
+      "Odd"
+    ],
+    "meaning_bengali": "উদ্ভট"
+  },
+  {
+    "word": "Brief",
+    "pos": "Adjective",
+    "synonyms": [
+      "Short",
+      "Concise"
+    ],
+    "meaning_bengali": "সংক্রিপ্ত"
+  },
+  {
+    "word": "Bashful",
+    "pos": "Adjective",
+    "synonyms": [
+      "Shy",
+      "Timid",
+      "Coy"
+    ],
+    "meaning_bengali": "লাজুক"
+  },
+  {
+    "word": "Best",
+    "pos": "Adjective",
+    "synonyms": [
+      "Finest"
+    ],
+    "meaning_bengali": "পসরা"
+  },
+  {
+    "word": "Becoming",
+    "pos": "Adjective",
+    "synonyms": [
+      "Fitting"
+    ],
+    "meaning_bengali": "হনয় ওঠা"
+  },
+  {
+    "word": "Bias",
+    "pos": "Noun",
+    "synonyms": [
+      "Partiality"
+    ],
+    "meaning_bengali": "পিপাত"
+  },
+  {
+    "word": "Blend",
+    "pos": "Verb",
+    "synonyms": [
+      "Combine",
+      "Mix"
+    ],
+    "meaning_bengali": "ক্লমক্লিত করা/মমশান া"
+  },
+  {
+    "word": "Begin",
+    "pos": "Verb",
+    "synonyms": [
+      "Commence"
+    ],
+    "meaning_bengali": "শুরু করা"
+  },
+  {
+    "word": "Brave",
+    "pos": "Adjective",
+    "synonyms": [
+      "Courageous",
+      "Bold"
+    ],
+    "meaning_bengali": "সাহসী"
+  },
+  {
+    "word": "Bread and butter",
+    "pos": "Noun",
+    "synonyms": [
+      "Livelihood"
+    ],
+    "meaning_bengali": "জীক্লবকা"
+  },
+  {
+    "word": "Beg",
+    "pos": "Verb",
+    "synonyms": [
+      "Implore"
+    ],
+    "meaning_bengali": "ক্লভিা করা"
+  },
+  {
+    "word": "Big",
+    "pos": "Adjective",
+    "synonyms": [
+      "Colossal",
+      "Large",
+      "Mammoth"
+    ],
+    "meaning_bengali": "বড়"
+  },
+  {
+    "word": "Buy",
+    "pos": "Verb",
+    "synonyms": [
+      "Purchase"
+    ],
+    "meaning_bengali": "পকো"
+  },
+  {
+    "word": "Cunning",
+    "pos": "Adjective",
+    "synonyms": [
+      "Clever"
+    ],
+    "meaning_bengali": "ধূতজ"
+  },
+  {
+    "word": "Compassion",
+    "pos": "Noun",
+    "synonyms": [
+      "Solicitude",
+      "Empathy"
+    ],
+    "meaning_bengali": "সমনবদো, সহা ুভূবত"
+  },
+  {
+    "word": "Calamity",
+    "pos": "Noun",
+    "synonyms": [
+      "Disaster"
+    ],
+    "meaning_bengali": "ক্লবপয্জয়"
+  },
+  {
+    "word": "Chiefly",
+    "pos": "Adverb",
+    "synonyms": [
+      "Mainly"
+    ],
+    "meaning_bengali": "প্রধােত"
+  },
+  {
+    "word": "Considerate",
+    "pos": "Adjective",
+    "synonyms": [
+      "Thoughtful"
+    ],
+    "meaning_bengali": "ক্লবনবচয"
+  },
+  {
+    "word": "Correct",
+    "pos": "Adjective",
+    "synonyms": [
+      "Right"
+    ],
+    "meaning_bengali": "সঠিক"
+  },
+  {
+    "word": "Complete",
+    "pos": "Adjective",
+    "synonyms": [
+      "Total"
+    ],
+    "meaning_bengali": "সম্পূণজ"
+  },
+  {
+    "word": "Courteous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Polite",
+      "Civil"
+    ],
+    "meaning_bengali": "ক্লবেয়ী"
+  },
+  {
+    "word": "Calm",
+    "pos": "Adjective",
+    "synonyms": [
+      "Tranquil"
+    ],
+    "meaning_bengali": "শান্ত"
+  },
+  {
+    "word": "Chaos",
+    "pos": "Noun",
+    "synonyms": [
+      "Disorder"
+    ],
+    "meaning_bengali": "ক্লবশৃঙ্খলা"
+  },
+  {
+    "word": "Close",
+    "pos": "Adjective",
+    "synonyms": [
+      "Near",
+      "Imminent"
+    ],
+    "meaning_bengali": "কাছাকাবছ, ব কিিতী"
+  },
+  {
+    "word": "Connect",
+    "pos": "Verb",
+    "synonyms": [
+      "Join",
+      "Link",
+      "Attach"
+    ],
+    "meaning_bengali": "সংনয্াগ করা"
+  },
+  {
+    "word": "Contemporary",
+    "pos": "Adjective",
+    "synonyms": [
+      "Modern"
+    ],
+    "meaning_bengali": "সমসামক্লয়ক"
+  },
+  {
+    "word": "Courage",
+    "pos": "Noun",
+    "synonyms": [
+      "Bravery",
+      "Valor"
+    ],
+    "meaning_bengali": "সাহস"
+  },
+  {
+    "word": "Change",
+    "pos": "Verb",
+    "synonyms": [
+      "Transform",
+      "Alter"
+    ],
+    "meaning_bengali": "পক্লরবতজে করা"
+  },
+  {
+    "word": "Coarse",
+    "pos": "Adjective",
+    "synonyms": [
+      "Bumpy",
+      "Rough"
+    ],
+    "meaning_bengali": "পমাটা, ককিশ"
+  },
+  {
+    "word": "Confuse",
+    "pos": "Verb",
+    "synonyms": [
+      "Bewilder"
+    ],
+    "meaning_bengali": "ক্লবভ্রান্ত করা"
+  },
+  {
+    "word": "Contrary",
+    "pos": "Adjective",
+    "synonyms": [
+      "Opposite"
+    ],
+    "meaning_bengali": "ক্লবপরীত"
+  },
+  {
+    "word": "Counsel",
+    "pos": "Noun",
+    "synonyms": [
+      "Advice"
+    ],
+    "meaning_bengali": "পরামশজ"
+  },
+  {
+    "word": "Clarify",
+    "pos": "Verb",
+    "synonyms": [
+      "Explain",
+      "Simplify"
+    ],
+    "meaning_bengali": "স্পষ্ট করা"
+  },
+  {
+    "word": "Cruel",
+    "pos": "Adjective",
+    "synonyms": [
+      "Heartless"
+    ],
+    "meaning_bengali": "ক্লেষ্ঠুর"
+  },
+  {
+    "word": "Curb",
+    "pos": "Verb",
+    "synonyms": [
+      "Restrain"
+    ],
+    "meaning_bengali": "ে ন করো"
+  },
+  {
+    "word": "Charismatic",
+    "pos": "Adjective",
+    "synonyms": [
+      "Compelling"
+    ],
+    "meaning_bengali": "ুগ্ধকোরী"
+  },
+  {
+    "word": "Conflict",
+    "pos": "Noun",
+    "synonyms": [
+      "Fight",
+      "Battle",
+      "Struggle"
+    ],
+    "meaning_bengali": "িন্দ্ব"
+  },
+  {
+    "word": "Complex",
+    "pos": "Adjective",
+    "synonyms": [
+      "Complicated"
+    ],
+    "meaning_bengali": "জটিল"
+  },
+  {
+    "word": "Choosy",
+    "pos": "Adjective",
+    "synonyms": [
+      "Picky"
+    ],
+    "meaning_bengali": "খুুঁতখুুঁনত"
+  },
+  {
+    "word": "Comical",
+    "pos": "Adjective",
+    "synonyms": [
+      "Amusing",
+      "Funny"
+    ],
+    "meaning_bengali": "হাসযকর"
+  },
+  {
+    "word": "Confine",
+    "pos": "Verb",
+    "synonyms": [
+      "Contain",
+      "Enclose",
+      "Restrict"
+    ],
+    "meaning_bengali": "আবদ্ধ করা"
+  },
+  {
+    "word": "Constraint",
+    "pos": "Noun",
+    "synonyms": [
+      "Limitation",
+      "Compulsion"
+    ],
+    "meaning_bengali": "সীমাবদ্ধতা"
+  },
+  {
+    "word": "Capitulate",
+    "pos": "Verb",
+    "synonyms": [
+      "Surrender"
+    ],
+    "meaning_bengali": "আত্মস পথর্ করো"
+  },
+  {
+    "word": "Cease",
+    "pos": "Verb",
+    "synonyms": [
+      "End",
+      "Conclude"
+    ],
+    "meaning_bengali": "দশষ করো"
+  },
+  {
+    "word": "Circumlocution",
+    "pos": "Noun",
+    "synonyms": [
+      "Indirectness"
+    ],
+    "meaning_bengali": "ঘুবরময দপবচময কথো িেো"
+  },
+  {
+    "word": "Circumspect",
+    "pos": "Adjective",
+    "synonyms": [
+      "Cautious",
+      "Wary",
+      "Careful"
+    ],
+    "meaning_bengali": "সতকথ থোকো"
+  },
+  {
+    "word": "Clemency",
+    "pos": "Noun",
+    "synonyms": [
+      "Mercy",
+      "Lenience"
+    ],
+    "meaning_bengali": "ক্ষ োশীেতো"
+  },
+  {
+    "word": "Cogent",
+    "pos": "Adjective",
+    "synonyms": [
+      "Convincing",
+      "Compelling"
+    ],
+    "meaning_bengali": "প্রিে"
+  },
+  {
+    "word": "Colloquial",
+    "pos": "Adjective",
+    "synonyms": [
+      "Conversational"
+    ],
+    "meaning_bengali": "বেনচ্ছন্দন কমথোপকথমন িযিহৃত"
+  },
+  {
+    "word": "Collusion",
+    "pos": "Noun",
+    "synonyms": [
+      "Conspiracy"
+    ],
+    "meaning_bengali": "ষড়যন্ত্র"
+  },
+  {
+    "word": "Commence",
+    "pos": "Verb",
+    "synonyms": [
+      "Start",
+      "Begin"
+    ],
+    "meaning_bengali": "শুরু িওযো"
+  },
+  {
+    "word": "Compelling",
+    "pos": "Adjective",
+    "synonyms": [
+      "Convincing",
+      "Persuasive"
+    ],
+    "meaning_bengali": "প্রমরোবচত"
+  },
+  {
+    "word": "Concede",
+    "pos": "Verb",
+    "synonyms": [
+      "Surrender",
+      "Yield"
+    ],
+    "meaning_bengali": "িোর োনো"
+  },
+  {
+    "word": "Compulsory",
+    "pos": "Adjective",
+    "synonyms": [
+      "Obligatory",
+      "Mandatory"
+    ],
+    "meaning_bengali": "িোধযতো ূেক"
+  },
+  {
+    "word": "Concise",
+    "pos": "Adjective",
+    "synonyms": [
+      "Short",
+      "Terse",
+      "Brief"
+    ],
+    "meaning_bengali": "সংক্তক্ষপ্ত"
+  },
+  {
+    "word": "Concurrent",
+    "pos": "Adjective",
+    "synonyms": [
+      "Simultaneous",
+      "Coinciding"
+    ],
+    "meaning_bengali": "স সো বযক"
+  },
+  {
+    "word": "Conjecture",
+    "pos": "Noun",
+    "synonyms": [
+      "Guess",
+      "Speculation"
+    ],
+    "meaning_bengali": "অনু োন"
+  },
+  {
+    "word": "Consensus",
+    "pos": "Noun",
+    "synonyms": [
+      "Agreement"
+    ],
+    "meaning_bengali": "ঐকয ত"
+  },
+  {
+    "word": "Connotation",
+    "pos": "Noun",
+    "synonyms": [
+      "Undertone",
+      "Implication"
+    ],
+    "meaning_bengali": "েুকোমনো অথথ"
+  },
+  {
+    "word": "Conspicuous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Obvious",
+      "Clear"
+    ],
+    "meaning_bengali": "সুস্পষ্ট"
+  },
+  {
+    "word": "Conundrum",
+    "pos": "Noun",
+    "synonyms": [
+      "Dilemma",
+      "Puzzle"
+    ],
+    "meaning_bengali": "কঠিন পবরক্তস্থবত"
+  },
+  {
+    "word": "Copious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Abundant",
+      "Plentiful"
+    ],
+    "meaning_bengali": "প্রচুর"
+  },
+  {
+    "word": "Credible",
+    "pos": "Adjective",
+    "synonyms": [
+      "Acceptable",
+      "Trustworthy"
+    ],
+    "meaning_bengali": "বিশ্বোসমযোেয"
+  },
+  {
+    "word": "Cursory",
+    "pos": "Adjective",
+    "synonyms": [
+      "Perfunctory"
+    ],
+    "meaning_bengali": "ভোসো-ভোসো"
+  },
+  {
+    "word": "Curtail",
+    "pos": "Verb",
+    "synonyms": [
+      "Decrease"
+    ],
+    "meaning_bengali": "কব ময আনো"
+  },
+  {
+    "word": "Deliberate",
+    "pos": "Adjective",
+    "synonyms": [
+      "Intentional"
+    ],
+    "meaning_bengali": "ইচ্ছাকৃত"
+  },
+  {
+    "word": "Dash",
+    "pos": "Verb",
+    "synonyms": [
+      "Sprint"
+    ],
+    "meaning_bengali": "পূণজনবনগ পদ ড়ানো"
+  },
+  {
+    "word": "Diverse",
+    "pos": "Adjective",
+    "synonyms": [
+      "Miscellaneous",
+      "Varied"
+    ],
+    "meaning_bengali": "ববক্লচত্র্যময়"
+  },
+  {
+    "word": "Despise",
+    "pos": "Verb",
+    "synonyms": [
+      "Hate",
+      "Detest",
+      "Loathe"
+    ],
+    "meaning_bengali": "অবজ্ঞা করা"
+  },
+  {
+    "word": "Delicate",
+    "pos": "Adjective",
+    "synonyms": [
+      "Fragile",
+      "Dainty"
+    ],
+    "meaning_bengali": "ভঙ্গুর"
+  },
+  {
+    "word": "Dearth/Scarcity",
+    "pos": "Adjective",
+    "synonyms": [
+      "Lack"
+    ],
+    "meaning_bengali": "অভাব"
+  },
+  {
+    "word": "Dubious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Doubtful"
+    ],
+    "meaning_bengali": "সনেহজেক"
+  },
+  {
+    "word": "Drab",
+    "pos": "Adjective",
+    "synonyms": [
+      "Dull"
+    ],
+    "meaning_bengali": "একনঘনয়ক্লম"
+  },
+  {
+    "word": "Determined",
+    "pos": "Adjective",
+    "synonyms": [
+      "Sure",
+      "Convinced"
+    ],
+    "meaning_bengali": "ক্লেধজাক্লরত"
+  },
+  {
+    "word": "Demeanor",
+    "pos": "Noun",
+    "synonyms": [
+      "Behavior",
+      "Character"
+    ],
+    "meaning_bengali": "হাবভাব"
+  },
+  {
+    "word": "Desperate",
+    "pos": "Adjective",
+    "synonyms": [
+      "Hopeless"
+    ],
+    "meaning_bengali": "মক্লরয়া"
+  },
+  {
+    "word": "Destitute",
+    "pos": "Adjective",
+    "synonyms": [
+      "Poor"
+    ],
+    "meaning_bengali": "ক্লেিঃস্ব"
+  },
+  {
+    "word": "Disgrace",
+    "pos": "Noun",
+    "synonyms": [
+      "Shame"
+    ],
+    "meaning_bengali": "অপমাে"
+  },
+  {
+    "word": "Deter",
+    "pos": "Verb",
+    "synonyms": [
+      "Hinder",
+      "Prevent"
+    ],
+    "meaning_bengali": "ক্লেবৃত্ত করা"
+  },
+  {
+    "word": "Daring",
+    "pos": "Adjective",
+    "synonyms": [
+      "Bold",
+      "Audacious"
+    ],
+    "meaning_bengali": "সাহসী"
+  },
+  {
+    "word": "Disclose",
+    "pos": "Verb",
+    "synonyms": [
+      "Reveal"
+    ],
+    "meaning_bengali": "প্রকাশ করা"
+  },
+  {
+    "word": "Docile",
+    "pos": "Adjective",
+    "synonyms": [
+      "Tame",
+      "Gentle"
+    ],
+    "meaning_bengali": "ক্লবেয়ী"
+  },
+  {
+    "word": "Dull",
+    "pos": "Adjective",
+    "synonyms": [
+      "Mundane"
+    ],
+    "meaning_bengali": "ক্লেনেজ/ক্লেনবজাধ"
+  },
+  {
+    "word": "Deteriorate",
+    "pos": "Verb",
+    "synonyms": [
+      "Worsen"
+    ],
+    "meaning_bengali": "অবেক্লত ঘটা"
+  },
+  {
+    "word": "Dauntless",
+    "pos": "Adjective",
+    "synonyms": [
+      "Fearless",
+      "Unafraid"
+    ],
+    "meaning_bengali": "বনভীক"
+  },
+  {
+    "word": "Decadence",
+    "pos": "Noun",
+    "synonyms": [
+      "Depravity"
+    ],
+    "meaning_bengali": "অিক্ষয"
+  },
+  {
+    "word": "Defer",
+    "pos": "Verb",
+    "synonyms": [
+      "Postpone"
+    ],
+    "meaning_bengali": "বপবছময দেওযো"
+  },
+  {
+    "word": "Deft",
+    "pos": "Adjective",
+    "synonyms": [
+      "Skilled"
+    ],
+    "meaning_bengali": "েক্ষ"
+  },
+  {
+    "word": "Deliberate",
+    "pos": "Adjective",
+    "synonyms": [
+      "Intentional"
+    ],
+    "meaning_bengali": "ইিোকৃত"
+  },
+  {
+    "word": "Delectable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Delicious",
+      "Mouthwatering"
+    ],
+    "meaning_bengali": "সুস্বোেু"
+  },
+  {
+    "word": "Denigrate",
+    "pos": "Verb",
+    "synonyms": [
+      "Belittle",
+      "Insult"
+    ],
+    "meaning_bengali": "বনন্দো করো"
+  },
+  {
+    "word": "Denouement",
+    "pos": "Noun",
+    "synonyms": [
+      "Finale"
+    ],
+    "meaning_bengali": "স োবপ্ত"
+  },
+  {
+    "word": "Diatribe",
+    "pos": "Noun",
+    "synonyms": [
+      "Tirade",
+      "Harangue"
+    ],
+    "meaning_bengali": "েোক্তেেোেো"
+  },
+  {
+    "word": "Dichotomy",
+    "pos": "Noun",
+    "synonyms": [
+      "Division"
+    ],
+    "meaning_bengali": "বিধোবিভক্তি"
+  },
+  {
+    "word": "Disavowal",
+    "pos": "Noun",
+    "synonyms": [
+      "Denial",
+      "Rejection"
+    ],
+    "meaning_bengali": "অস্বীকোর করো"
+  },
+  {
+    "word": "Discernible",
+    "pos": "Adjective",
+    "synonyms": [
+      "Visible",
+      "Noticeable"
+    ],
+    "meaning_bengali": "েক্ষর্ীয"
+  },
+  {
+    "word": "Elevate",
+    "pos": "Verb",
+    "synonyms": [
+      "Lift",
+      "Raise"
+    ],
+    "meaning_bengali": "উন্নীত করা"
+  },
+  {
+    "word": "Enquire",
+    "pos": "Verb",
+    "synonyms": [
+      "Investigate"
+    ],
+    "meaning_bengali": "ক্রজজ্ঞাসা করা"
+  },
+  {
+    "word": "Ethical",
+    "pos": "Adjective",
+    "synonyms": [
+      "Moral"
+    ],
+    "meaning_bengali": "বেক্লতক"
+  },
+  {
+    "word": "Encourage",
+    "pos": "Verb",
+    "synonyms": [
+      "Support"
+    ],
+    "meaning_bengali": "উৎসাক্লহত করা"
+  },
+  {
+    "word": "Eager",
+    "pos": "Adjective",
+    "synonyms": [
+      "Keen"
+    ],
+    "meaning_bengali": "আগ্রহী"
+  },
+  {
+    "word": "Exaggerate",
+    "pos": "Verb",
+    "synonyms": [
+      "Hyperbolize"
+    ],
+    "meaning_bengali": "অক্লতরক্রিত করা"
+  },
+  {
+    "word": "Exemplary",
+    "pos": "Adjective",
+    "synonyms": [
+      "Extraordinary"
+    ],
+    "meaning_bengali": "অেুকরণীয়"
+  },
+  {
+    "word": "Emphatically",
+    "pos": "Adverb",
+    "synonyms": [
+      "Forcefully"
+    ],
+    "meaning_bengali": "সনজানর"
+  },
+  {
+    "word": "Escalate",
+    "pos": "Verb",
+    "synonyms": [
+      "Increase"
+    ],
+    "meaning_bengali": "বৃক্লদ্ধ পাওয়া"
+  },
+  {
+    "word": "Evaluate",
+    "pos": "Verb",
+    "synonyms": [
+      "Assess"
+    ],
+    "meaning_bengali": "মূলযায়ে করা"
+  },
+  {
+    "word": "Enlarge",
+    "pos": "Verb",
+    "synonyms": [
+      "Expand",
+      "Magnify"
+    ],
+    "meaning_bengali": "প্রসাক্লরত করা"
+  },
+  {
+    "word": "Excoriate",
+    "pos": "Adjective",
+    "synonyms": [
+      "Censure",
+      "Criticize"
+    ],
+    "meaning_bengali": "েভীরভোমি বনন্দো করো"
+  },
+  {
+    "word": "Exacerbate",
+    "pos": "Verb",
+    "synonyms": [
+      "Aggravate",
+      "Worsen"
+    ],
+    "meaning_bengali": "খোরোপ করো"
+  },
+  {
+    "word": "Enunciate",
+    "pos": "Verb",
+    "synonyms": [
+      "Articulate"
+    ],
+    "meaning_bengali": "স্পষ্টভোমি বকছু িেো"
+  },
+  {
+    "word": "Edify",
+    "pos": "Verb",
+    "synonyms": [
+      "Educate",
+      "Instruct"
+    ],
+    "meaning_bengali": "বশক্ষো দেত্তযো"
+  },
+  {
+    "word": "Expatiate",
+    "pos": "Verb",
+    "synonyms": [
+      "Expound"
+    ],
+    "meaning_bengali": "বিস্তোবরতভোমি আমেোচনো করো িো দেখো"
+  },
+  {
+    "word": "Esoteric",
+    "pos": "Adjective",
+    "synonyms": [
+      "Confusing",
+      "Obscure"
+    ],
+    "meaning_bengali": "অস্পষ্ট"
+  },
+  {
+    "word": "Evanescent",
+    "pos": "Adjective",
+    "synonyms": [
+      "Ephemeral",
+      "Fleeting"
+    ],
+    "meaning_bengali": "ক্ষর্স্থোযী"
+  },
+  {
+    "word": "Emulate",
+    "pos": "Verb",
+    "synonyms": [
+      "Imitate",
+      "Copy",
+      "Mimic"
+    ],
+    "meaning_bengali": "অনুকরর্ করো"
+  },
+  {
+    "word": "Entice",
+    "pos": "Verb",
+    "synonyms": [
+      "Tempt",
+      "Allure",
+      "Attract"
+    ],
+    "meaning_bengali": "বিম োবিত করো"
+  },
+  {
+    "word": "Exorbitant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Excessive",
+      "Immoderate"
+    ],
+    "meaning_bengali": "অমনক দিবশ"
+  },
+  {
+    "word": "Ennui",
+    "pos": "Noun",
+    "synonyms": [
+      "Boredom",
+      "Listlessness"
+    ],
+    "meaning_bengali": "অিসোে"
+  },
+  {
+    "word": "Frigid",
+    "pos": "Adjective",
+    "synonyms": [
+      "Freezing",
+      "Frosty"
+    ],
+    "meaning_bengali": "ক্লহমশীতল"
+  },
+  {
+    "word": "Fragile",
+    "pos": "Adjective",
+    "synonyms": [
+      "Weak"
+    ],
+    "meaning_bengali": "ভঙ্গুর"
+  },
+  {
+    "word": "Fatal",
+    "pos": "Adjective",
+    "synonyms": [
+      "Deadly"
+    ],
+    "meaning_bengali": "মারাত্মক"
+  },
+  {
+    "word": "Flippant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Insincere"
+    ],
+    "meaning_bengali": "অনোন্তবরক"
+  },
+  {
+    "word": "Fatal",
+    "pos": "Adjective",
+    "synonyms": [
+      "Dangerous"
+    ],
+    "meaning_bengali": "মারাত্মক"
+  },
+  {
+    "word": "Formerly",
+    "pos": "Adverb",
+    "synonyms": [
+      "Previously"
+    ],
+    "meaning_bengali": "পূনবজ"
+  },
+  {
+    "word": "Fallacy",
+    "pos": "Noun",
+    "synonyms": [
+      "Misconception"
+    ],
+    "meaning_bengali": "ভুে ধোরর্ো"
+  },
+  {
+    "word": "Falter",
+    "pos": "Verb",
+    "synonyms": [
+      "Hesitate",
+      "Waver"
+    ],
+    "meaning_bengali": "ইতস্তত করো"
+  },
+  {
+    "word": "Fastidious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Scrupulous",
+      "Meticulous"
+    ],
+    "meaning_bengali": "খুুঁতখুুঁমত"
+  },
+  {
+    "word": "Flabbergasted",
+    "pos": "Adjective",
+    "synonyms": [
+      "Shocked"
+    ],
+    "meaning_bengali": "িতিোক"
+  },
+  {
+    "word": "Formidable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Strong",
+      "Intimidating"
+    ],
+    "meaning_bengali": "শক্তিশোেী"
+  },
+  {
+    "word": "Frugal",
+    "pos": "Adjective",
+    "synonyms": [
+      "Economical",
+      "Thrifty"
+    ],
+    "meaning_bengali": "ব তিযযী"
+  },
+  {
+    "word": "Gain",
+    "pos": "Verb",
+    "synonyms": [
+      "Acquire",
+      "Obtain"
+    ],
+    "meaning_bengali": "অজজে করা"
+  },
+  {
+    "word": "Gloomy",
+    "pos": "Adjective",
+    "synonyms": [
+      "Melancholy"
+    ],
+    "meaning_bengali": "ক্লবেণ্ণ"
+  },
+  {
+    "word": "Grab",
+    "pos": "Verb",
+    "synonyms": [
+      "Seize"
+    ],
+    "meaning_bengali": "দখল করা"
+  },
+  {
+    "word": "Grim",
+    "pos": "Adjective",
+    "synonyms": [
+      "Serious"
+    ],
+    "meaning_bengali": "েম্ভীর"
+  },
+  {
+    "word": "Glad",
+    "pos": "Adjective",
+    "synonyms": [
+      "Happy"
+    ],
+    "meaning_bengali": "খুক্লশ"
+  },
+  {
+    "word": "Generous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Giving",
+      "Selfless"
+    ],
+    "meaning_bengali": "উদার"
+  },
+  {
+    "word": "Gamut",
+    "pos": "Noun",
+    "synonyms": [
+      "Range",
+      "Spectrum"
+    ],
+    "meaning_bengali": "অমনক ধরমনর"
+  },
+  {
+    "word": "Garrulous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Talkative"
+    ],
+    "meaning_bengali": "দয দিবশ কথো িমে"
+  },
+  {
+    "word": "Germane",
+    "pos": "Adjective",
+    "synonyms": [
+      "Relevant",
+      "Pertinent"
+    ],
+    "meaning_bengali": "প্রোসক্তিক"
+  },
+  {
+    "word": "Grandiose",
+    "pos": "Adjective",
+    "synonyms": [
+      "Magnificent",
+      "Splendid"
+    ],
+    "meaning_bengali": "ুঁোকোমেো"
+  },
+  {
+    "word": "Gratuitous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unjustified"
+    ],
+    "meaning_bengali": "বভক্তত্তিীন"
+  },
+  {
+    "word": "Hazard",
+    "pos": "Noun",
+    "synonyms": [
+      "Danger"
+    ],
+    "meaning_bengali": "ক্লবপক্রত্ত"
+  },
+  {
+    "word": "Huge",
+    "pos": "Adjective",
+    "synonyms": [
+      "Vast",
+      "Immense"
+    ],
+    "meaning_bengali": "ক্লবশাল"
+  },
+  {
+    "word": "Humiliate",
+    "pos": "Verb",
+    "synonyms": [
+      "Embarrass",
+      "Insult"
+    ],
+    "meaning_bengali": "অপমাে করা"
+  },
+  {
+    "word": "Humble",
+    "pos": "Adjective",
+    "synonyms": [
+      "Modest"
+    ],
+    "meaning_bengali": "েম্র"
+  },
+  {
+    "word": "Hard",
+    "pos": "Adjective",
+    "synonyms": [
+      "Difficult",
+      "Arduous"
+    ],
+    "meaning_bengali": "কঠিে"
+  },
+  {
+    "word": "Hackneyed",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unoriginal"
+    ],
+    "meaning_bengali": "েতোনুেবতক"
+  },
+  {
+    "word": "Harangue",
+    "pos": "Noun",
+    "synonyms": [
+      "Tirade"
+    ],
+    "meaning_bengali": "প্রচণ্ড বতরস্কোর"
+  },
+  {
+    "word": "Harbinger",
+    "pos": "Noun",
+    "synonyms": [
+      "Herald"
+    ],
+    "meaning_bengali": "অগ্রেূত"
+  },
+  {
+    "word": "Haphazard",
+    "pos": "Adjective",
+    "synonyms": [
+      "Disorderly"
+    ],
+    "meaning_bengali": "এমেোম মেো"
+  },
+  {
+    "word": "Hasten",
+    "pos": "Verb",
+    "synonyms": [
+      "Hurry"
+    ],
+    "meaning_bengali": "তোড়োতোবড় করো"
+  },
+  {
+    "word": "Herculean",
+    "pos": "Adjective",
+    "synonyms": [
+      "Arduous",
+      "Laborious"
+    ],
+    "meaning_bengali": "অমনক কঠিন"
+  },
+  {
+    "word": "Heresy",
+    "pos": "Noun",
+    "synonyms": [
+      "Dissent",
+      "Dissidence"
+    ],
+    "meaning_bengali": "প্রচক্তেত মতর বিরূমদ্ধ বিশ্বোস"
+  },
+  {
+    "word": "Hinder",
+    "pos": "Verb",
+    "synonyms": [
+      "Obstruct",
+      "Impede"
+    ],
+    "meaning_bengali": "িোধো দেওযো"
+  },
+  {
+    "word": "Homogenous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Congruous"
+    ],
+    "meaning_bengali": "একই রকম র"
+  },
+  {
+    "word": "Horrendous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Horrible",
+      "Dreadful"
+    ],
+    "meaning_bengali": "ভযঙ্কর"
+  },
+  {
+    "word": "Irrelevant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unrelated"
+    ],
+    "meaning_bengali": "সম্পক্লকজত েয়, অপ্রাসবঙ্গক"
+  },
+  {
+    "word": "Intolerant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Bigoted",
+      "Prejudiced"
+    ],
+    "meaning_bengali": "কুসংস্কারয্ুক্ত, অসবহষ্ণু"
+  },
+  {
+    "word": "Inconsiderate",
+    "pos": "Adjective",
+    "synonyms": [
+      "Thoughtless"
+    ],
+    "meaning_bengali": "ক্লেক্লবজঘ্ন"
+  },
+  {
+    "word": "Important",
+    "pos": "Adjective",
+    "synonyms": [
+      "Significant"
+    ],
+    "meaning_bengali": "তাৎপয্জপূণজ"
+  },
+  {
+    "word": "Infuriate",
+    "pos": "Verb",
+    "synonyms": [
+      "Enrage",
+      "Agitate",
+      "Provoke"
+    ],
+    "meaning_bengali": "উসকান া"
+  },
+  {
+    "word": "Industrious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Hardworking"
+    ],
+    "meaning_bengali": "কনঠার পক্লরিমী"
+  },
+  {
+    "word": "Immaculate",
+    "pos": "Adjective",
+    "synonyms": [
+      "Spotless"
+    ],
+    "meaning_bengali": "বনখুুঁত"
+  },
+  {
+    "word": "Impartial",
+    "pos": "Adjective",
+    "synonyms": [
+      "Neutral"
+    ],
+    "meaning_bengali": "ক্লেরনপি"
+  },
+  {
+    "word": "Invade",
+    "pos": "Verb",
+    "synonyms": [
+      "Attack"
+    ],
+    "meaning_bengali": "আিমণ"
+  },
+  {
+    "word": "Impact",
+    "pos": "Noun",
+    "synonyms": [
+      "Effect"
+    ],
+    "meaning_bengali": "প্রভাব"
+  },
+  {
+    "word": "Insufficient",
+    "pos": "Adjective",
+    "synonyms": [
+      "Inadequate"
+    ],
+    "meaning_bengali": "অপয্জাপ্ত"
+  },
+  {
+    "word": "Identical",
+    "pos": "Adjective",
+    "synonyms": [
+      "Alike",
+      "Duplicate"
+    ],
+    "meaning_bengali": "সদৃশ"
+  },
+  {
+    "word": "Ingenious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Clever",
+      "Creative",
+      "Original"
+    ],
+    "meaning_bengali": "সৃজেশীল"
+  },
+  {
+    "word": "Inevitable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unavoidable"
+    ],
+    "meaning_bengali": "অবনিোযথ"
+  },
+  {
+    "word": "Joy",
+    "pos": "Noun",
+    "synonyms": [
+      "Delight"
+    ],
+    "meaning_bengali": "আেে"
+  },
+  {
+    "word": "Jaded",
+    "pos": "Adjective",
+    "synonyms": [
+      "Exhausted"
+    ],
+    "meaning_bengali": "ক্লোন্ত"
+  },
+  {
+    "word": "Jubilation",
+    "pos": "Noun",
+    "synonyms": [
+      "Exhilaration"
+    ],
+    "meaning_bengali": "উেোস"
+  },
+  {
+    "word": "Kindred",
+    "pos": "Adjective",
+    "synonyms": [
+      "Similar"
+    ],
+    "meaning_bengali": "কাছাকাক্লছ ধরনের"
+  },
+  {
+    "word": "Kindle",
+    "pos": "Verb",
+    "synonyms": [
+      "Ignite"
+    ],
+    "meaning_bengali": "আগুন ধরোমনো"
+  },
+  {
+    "word": "Kleptomaniac",
+    "pos": "Noun",
+    "synonyms": [
+      "Thief"
+    ],
+    "meaning_bengali": "চুবরর িোবতকগ্রস্ত দেোক"
+  },
+  {
+    "word": "Loving",
+    "pos": "Adjective",
+    "synonyms": [
+      "Fond"
+    ],
+    "meaning_bengali": "শমখর, র্নের"
+  },
+  {
+    "word": "Lots",
+    "pos": "Adverb",
+    "synonyms": [
+      "Many"
+    ],
+    "meaning_bengali": "অনেক"
+  },
+  {
+    "word": "Lethal",
+    "pos": "Adjective",
+    "synonyms": [
+      "Deadly"
+    ],
+    "meaning_bengali": "মারাত্মক"
+  },
+  {
+    "word": "Logical",
+    "pos": "Adjective",
+    "synonyms": [
+      "Sensible",
+      "Sane",
+      "Rational"
+    ],
+    "meaning_bengali": "বুক্লদ্ধমাে, মর্ৌত্রিক"
+  },
+  {
+    "word": "Long",
+    "pos": "Adjective",
+    "synonyms": [
+      "Lengthy"
+    ],
+    "meaning_bengali": "দীঘজ"
+  },
+  {
+    "word": "Laborious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Arduous",
+      "Difficult"
+    ],
+    "meaning_bengali": "কঠিন"
+  },
+  {
+    "word": "Lackluster",
+    "pos": "Adjective",
+    "synonyms": [
+      "Uninspired"
+    ],
+    "meaning_bengali": "বনষ্প্প্রভ"
+  },
+  {
+    "word": "Latent",
+    "pos": "Adjective",
+    "synonyms": [
+      "Hidden"
+    ],
+    "meaning_bengali": "সুপ্ত"
+  },
+  {
+    "word": "Latter",
+    "pos": "Adjective",
+    "synonyms": [
+      "Subsequent"
+    ],
+    "meaning_bengali": "পমরর িো দশমষর অংমশ"
+  },
+  {
+    "word": "Lax",
+    "pos": "Adjective",
+    "synonyms": [
+      "Lenient"
+    ],
+    "meaning_bengali": "বশবথে"
+  },
+  {
+    "word": "Lucrative",
+    "pos": "Adjective",
+    "synonyms": [
+      "Profitable"
+    ],
+    "meaning_bengali": "েোভ নক"
+  },
+  {
+    "word": "Luxurious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Extravagant",
+      "Elegant"
+    ],
+    "meaning_bengali": "অক্লমতবযয়ী"
+  },
+  {
+    "word": "Lethargic",
+    "pos": "Adjective",
+    "synonyms": [
+      "Lazy"
+    ],
+    "meaning_bengali": "অলস"
+  },
+  {
+    "word": "Lucid",
+    "pos": "Adjective",
+    "synonyms": [
+      "Clear"
+    ],
+    "meaning_bengali": "স্পষ্ট"
+  },
+  {
+    "word": "Maiden",
+    "pos": "Noun",
+    "synonyms": [
+      "First"
+    ],
+    "meaning_bengali": "সিথপ্রথ"
+  },
+  {
+    "word": "Mild",
+    "pos": "Adjective",
+    "synonyms": [
+      "Gentle"
+    ],
+    "meaning_bengali": "পকামল, মৃদু"
+  },
+  {
+    "word": "Magnify",
+    "pos": "Verb",
+    "synonyms": [
+      "Expand",
+      "Enlarge"
+    ],
+    "meaning_bengali": "প্রসাক্লরত"
+  },
+  {
+    "word": "Mysterious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Elusive"
+    ],
+    "meaning_bengali": "রিসয য"
+  },
+  {
+    "word": "Mesmerize",
+    "pos": "Verb",
+    "synonyms": [
+      "Captivate"
+    ],
+    "meaning_bengali": "সনমাহে"
+  },
+  {
+    "word": "Modern",
+    "pos": "Adjective",
+    "synonyms": [
+      "Contemporary"
+    ],
+    "meaning_bengali": "সমসামক্লয়ক"
+  },
+  {
+    "word": "Minuscule",
+    "pos": "Adjective",
+    "synonyms": [
+      "Tiny",
+      "Minute"
+    ],
+    "meaning_bengali": "খুব পছাট"
+  },
+  {
+    "word": "Maintain",
+    "pos": "Verb",
+    "synonyms": [
+      "Preserve"
+    ],
+    "meaning_bengali": "পদখানশাো করা"
+  },
+  {
+    "word": "Magnanimous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Benevolent",
+      "Generous"
+    ],
+    "meaning_bengali": "উেোর"
+  },
+  {
+    "word": "Magnitude",
+    "pos": "Noun",
+    "synonyms": [
+      "Immensity",
+      "Vastness"
+    ],
+    "meaning_bengali": "বিশোেতো"
+  },
+  {
+    "word": "Malignant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Deadly",
+      "Fatal"
+    ],
+    "meaning_bengali": "োরোত্মক"
+  },
+  {
+    "word": "Malady",
+    "pos": "Noun",
+    "synonyms": [
+      "Disease",
+      "Ailment"
+    ],
+    "meaning_bengali": "অসুস্থতো"
+  },
+  {
+    "word": "Manifold",
+    "pos": "Adjective",
+    "synonyms": [
+      "Many",
+      "Various"
+    ],
+    "meaning_bengali": "নোনোবিধ"
+  },
+  {
+    "word": "Mar",
+    "pos": "Verb",
+    "synonyms": [
+      "Spoil",
+      "Ruin"
+    ],
+    "meaning_bengali": "নষ্ট করো"
+  },
+  {
+    "word": "Materialistic",
+    "pos": "Adjective",
+    "synonyms": [
+      "Worldly",
+      "Consumerist"
+    ],
+    "meaning_bengali": "িস্তুিোেী"
+  },
+  {
+    "word": "Materialize",
+    "pos": "Verb",
+    "synonyms": [
+      "Happen"
+    ],
+    "meaning_bengali": "িোস্তিোবযত করো"
+  },
+  {
+    "word": "Maxim",
+    "pos": "Noun",
+    "synonyms": [
+      "Principle"
+    ],
+    "meaning_bengali": "প্রচক্তেত কথো"
+  },
+  {
+    "word": "Meager",
+    "pos": "Adjective",
+    "synonyms": [
+      "Inadequate",
+      "Scanty"
+    ],
+    "meaning_bengali": "সো োনয"
+  },
+  {
+    "word": "Mediate",
+    "pos": "Verb",
+    "synonyms": [
+      "Conciliate",
+      "Moderate"
+    ],
+    "meaning_bengali": "ধযস্থতো করো"
+  },
+  {
+    "word": "Mercurial",
+    "pos": "Adjective",
+    "synonyms": [
+      "Volatile",
+      "Unstable"
+    ],
+    "meaning_bengali": "অক্তস্থবতশীে"
+  },
+  {
+    "word": "Methodical",
+    "pos": "Adjective",
+    "synonyms": [
+      "Systematic",
+      "Meticulous"
+    ],
+    "meaning_bengali": "সুশৃঙ্খে"
+  },
+  {
+    "word": "Mitigate",
+    "pos": "Verb",
+    "synonyms": [
+      "Alleviate",
+      "Relieve"
+    ],
+    "meaning_bengali": "উপশ করো"
+  },
+  {
+    "word": "Momentous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Important",
+      "Significant"
+    ],
+    "meaning_bengali": "গুরুত্বপূর্থ"
+  },
+  {
+    "word": "Multitudinous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Numerous",
+      "Abundant"
+    ],
+    "meaning_bengali": "িহুসংখযক"
+  },
+  {
+    "word": "Mundane",
+    "pos": "Adjective",
+    "synonyms": [
+      "Dull",
+      "Monotonous"
+    ],
+    "meaning_bengali": "একমঘময"
+  },
+  {
+    "word": "Myriad",
+    "pos": "Noun",
+    "synonyms": [
+      "Multitude",
+      "Many"
+    ],
+    "meaning_bengali": "িহুসংখযক"
+  },
+  {
+    "word": "Motley",
+    "pos": "Adjective",
+    "synonyms": [
+      "Miscellaneous",
+      "Diverse"
+    ],
+    "meaning_bengali": "বচত্রবিবচত্র"
+  },
+  {
+    "word": "Near",
+    "pos": "Adjective",
+    "synonyms": [
+      "Close"
+    ],
+    "meaning_bengali": "কাছাকাক্লছ"
+  },
+  {
+    "word": "Necessary",
+    "pos": "Adjective",
+    "synonyms": [
+      "Essential"
+    ],
+    "meaning_bengali": "প্রনয়াজেীয়"
+  },
+  {
+    "word": "Nuisance",
+    "pos": "Noun",
+    "synonyms": [
+      "Disturbance"
+    ],
+    "meaning_bengali": "ঝানমলা"
+  },
+  {
+    "word": "Numerous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Many",
+      "Multitude"
+    ],
+    "meaning_bengali": "িহুসংখযক"
+  },
+  {
+    "word": "Nonchalant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Indifferent"
+    ],
+    "meaning_bengali": "উদাসীে"
+  },
+  {
+    "word": "Negligible",
+    "pos": "Adjective",
+    "synonyms": [
+      "Insignificant"
+    ],
+    "meaning_bengali": "খুব পছাট"
+  },
+  {
+    "word": "Niche",
+    "pos": "Noun",
+    "synonyms": [
+      "Calling"
+    ],
+    "meaning_bengali": "উপযুি"
+  },
+  {
+    "word": "Naïve",
+    "pos": "Adjective",
+    "synonyms": [
+      "Inexperienced"
+    ],
+    "meaning_bengali": "অনবভজ্ঞ, সরে"
+  },
+  {
+    "word": "Necessitate",
+    "pos": "Verb",
+    "synonyms": [
+      "Require"
+    ],
+    "meaning_bengali": "অিশযম্ভোিী করো"
+  },
+  {
+    "word": "Negate",
+    "pos": "Verb",
+    "synonyms": [
+      "Nullify",
+      "Invalidate"
+    ],
+    "meaning_bengali": "অকোযথকর করো"
+  },
+  {
+    "word": "Negligence",
+    "pos": "Noun",
+    "synonyms": [
+      "Carelessness"
+    ],
+    "meaning_bengali": "অিমিেো"
+  },
+  {
+    "word": "Nominal",
+    "pos": "Adjective",
+    "synonyms": [
+      "Insignificant"
+    ],
+    "meaning_bengali": "অমনক ক"
+  },
+  {
+    "word": "Nonconformity",
+    "pos": "Noun",
+    "synonyms": [
+      "Dissent",
+      "Dissidence"
+    ],
+    "meaning_bengali": "সো ঞ্জসযিীনতো"
+  },
+  {
+    "word": "Novel",
+    "pos": "Adjective",
+    "synonyms": [
+      "New"
+    ],
+    "meaning_bengali": "নতুন"
+  },
+  {
+    "word": "Notable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Remarkable",
+      "Noteworthy"
+    ],
+    "meaning_bengali": "উমেখমযোেয"
+  },
+  {
+    "word": "Outrageous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Preposterous",
+      "Shocking"
+    ],
+    "meaning_bengali": "মমজস্পশী"
+  },
+  {
+    "word": "Odd",
+    "pos": "Adjective",
+    "synonyms": [
+      "Strange",
+      "Peculiar"
+    ],
+    "meaning_bengali": "অদ্ভুত"
+  },
+  {
+    "word": "Optional",
+    "pos": "Adjective",
+    "synonyms": [
+      "Noncompulsory"
+    ],
+    "meaning_bengali": "িোধযতো ূেক নয এ ন"
+  },
+  {
+    "word": "Outgoing",
+    "pos": "Adjective",
+    "synonyms": [
+      "Friendly"
+    ],
+    "meaning_bengali": "বন্ধুত্বপূণজ"
+  },
+  {
+    "word": "Obdurate",
+    "pos": "Adjective",
+    "synonyms": [
+      "Stubborn",
+      "Obstinate"
+    ],
+    "meaning_bengali": "অিোধয"
+  },
+  {
+    "word": "Obfuscate",
+    "pos": "Verb",
+    "synonyms": [
+      "Obscure",
+      "Blur"
+    ],
+    "meaning_bengali": "অস্পষ্ট করো"
+  },
+  {
+    "word": "Obstruct",
+    "pos": "Verb",
+    "synonyms": [
+      "Block"
+    ],
+    "meaning_bengali": "িোধো দেওযো"
+  },
+  {
+    "word": "Obviate",
+    "pos": "Verb",
+    "synonyms": [
+      "Prevent"
+    ],
+    "meaning_bengali": "বনিোরর্ করো"
+  },
+  {
+    "word": "Officious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Domineering"
+    ],
+    "meaning_bengali": "উদ্ধত"
+  },
+  {
+    "word": "Opportune",
+    "pos": "Adjective",
+    "synonyms": [
+      "Favorable",
+      "Convenient"
+    ],
+    "meaning_bengali": "সুবিধো নক"
+  },
+  {
+    "word": "Orthodox",
+    "pos": "Adjective",
+    "synonyms": [
+      "Conventional"
+    ],
+    "meaning_bengali": "প্রচক্তেত"
+  },
+  {
+    "word": "Ostensible",
+    "pos": "Adjective",
+    "synonyms": [
+      "Apparent"
+    ],
+    "meaning_bengali": "প্রতীয োন"
+  },
+  {
+    "word": "Possess",
+    "pos": "Verb",
+    "synonyms": [
+      "Own"
+    ],
+    "meaning_bengali": "ক্লেজস্ব"
+  },
+  {
+    "word": "Premises",
+    "pos": "Noun",
+    "synonyms": [
+      "Area"
+    ],
+    "meaning_bengali": "অঞ্চল"
+  },
+  {
+    "word": "Particular",
+    "pos": "Adjective",
+    "synonyms": [
+      "Specific"
+    ],
+    "meaning_bengali": "ক্লেক্লদজষ্ট"
+  },
+  {
+    "word": "Portion",
+    "pos": "Noun",
+    "synonyms": [
+      "Part",
+      "Segment",
+      "Piece"
+    ],
+    "meaning_bengali": "ক্লবভাগ, অংশ, খণ্ড"
+  },
+  {
+    "word": "Possibility",
+    "pos": "Noun",
+    "synonyms": [
+      "Chance",
+      "Probability"
+    ],
+    "meaning_bengali": "সম্ভোিনো"
+  },
+  {
+    "word": "Provide",
+    "pos": "Verb",
+    "synonyms": [
+      "Supply"
+    ],
+    "meaning_bengali": "সরবরাহ"
+  },
+  {
+    "word": "Palpable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Obvious",
+      "Noticeable"
+    ],
+    "meaning_bengali": "স্পষ্ট"
+  },
+  {
+    "word": "Paradigm",
+    "pos": "Noun",
+    "synonyms": [
+      "Model"
+    ],
+    "meaning_bengali": "েৃষ্টোন্ত"
+  },
+  {
+    "word": "Parsimonious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Frugal"
+    ],
+    "meaning_bengali": "ব তিযযী"
+  },
+  {
+    "word": "Paucity",
+    "pos": "Noun",
+    "synonyms": [
+      "Scarcity",
+      "Shortage"
+    ],
+    "meaning_bengali": "অভোি"
+  },
+  {
+    "word": "Pertinent",
+    "pos": "Adjective",
+    "synonyms": [
+      "Relevant"
+    ],
+    "meaning_bengali": "প্রোসক্তিক"
+  },
+  {
+    "word": "Pervasive",
+    "pos": "Adjective",
+    "synonyms": [
+      "Prevalent"
+    ],
+    "meaning_bengali": "প্রচক্তেত"
+  },
+  {
+    "word": "Pinnacle",
+    "pos": "Noun",
+    "synonyms": [
+      "Peak",
+      "Top",
+      "Summit"
+    ],
+    "meaning_bengali": "চূড়ো"
+  },
+  {
+    "word": "Pithy",
+    "pos": "Adjective",
+    "synonyms": [
+      "Concise"
+    ],
+    "meaning_bengali": "সংক্তক্ষপ্ত"
+  },
+  {
+    "word": "Placate",
+    "pos": "Verb",
+    "synonyms": [
+      "Pacify",
+      "Appease",
+      "Calm"
+    ],
+    "meaning_bengali": "শোন্ত করো"
+  },
+  {
+    "word": "Plausible",
+    "pos": "Adjective",
+    "synonyms": [
+      "Credible",
+      "Reasonable"
+    ],
+    "meaning_bengali": "সম্ভোিনীয"
+  },
+  {
+    "word": "Plethora",
+    "pos": "Noun",
+    "synonyms": [
+      "Excess",
+      "Overabundance"
+    ],
+    "meaning_bengali": "অবতবরি"
+  },
+  {
+    "word": "Plummet",
+    "pos": "Verb",
+    "synonyms": [
+      "Plunge"
+    ],
+    "meaning_bengali": "িঠোৎ অমনক কম যোওযো"
+  },
+  {
+    "word": "Poignant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Touching",
+      "Moving"
+    ],
+    "meaning_bengali": "থস্পশী"
+  },
+  {
+    "word": "Potent",
+    "pos": "Adjective",
+    "synonyms": [
+      "Powerful",
+      "Strong"
+    ],
+    "meaning_bengali": "শক্তিশোেী"
+  },
+  {
+    "word": "Pragmatic",
+    "pos": "Adjective",
+    "synonyms": [
+      "Practical",
+      "Realistic"
+    ],
+    "meaning_bengali": "িযিিোবরক"
+  },
+  {
+    "word": "Predominant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Main",
+      "Chief"
+    ],
+    "meaning_bengali": "প্রধোন"
+  },
+  {
+    "word": "Quintessence",
+    "pos": "Noun",
+    "synonyms": [
+      "Exemplar",
+      "Epitome"
+    ],
+    "meaning_bengali": "আেশথ উেোিরর্"
+  },
+  {
+    "word": "Racket",
+    "pos": "Noun",
+    "synonyms": [
+      "Noise",
+      "Commotion"
+    ],
+    "meaning_bengali": "পকালাহল"
+  },
+  {
+    "word": "Radical",
+    "pos": "Adjective",
+    "synonyms": [
+      "Revolutionary"
+    ],
+    "meaning_bengali": "বিপ্লিী"
+  },
+  {
+    "word": "Ramification",
+    "pos": "Noun",
+    "synonyms": [
+      "Consequence"
+    ],
+    "meaning_bengali": "পবরর্বত"
+  },
+  {
+    "word": "Recalcitrant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Uncooperative"
+    ],
+    "meaning_bengali": "অিোধয"
+  },
+  {
+    "word": "Recapitulate",
+    "pos": "Verb",
+    "synonyms": [
+      "Summarize"
+    ],
+    "meaning_bengali": "সোরসংমক্ষপ প্রেোন করো"
+  },
+  {
+    "word": "Rejuvenate",
+    "pos": "Verb",
+    "synonyms": [
+      "Refresh"
+    ],
+    "meaning_bengali": "পুেরুজ্জীক্লবত করা"
+  },
+  {
+    "word": "Redress",
+    "pos": "Verb",
+    "synonyms": [
+      "Rectify",
+      "Correct",
+      "Fix"
+    ],
+    "meaning_bengali": "ঠিক করো"
+  },
+  {
+    "word": "Repercussion",
+    "pos": "Noun",
+    "synonyms": [
+      "Consequence",
+      "Result"
+    ],
+    "meaning_bengali": "পবরর্বত"
+  },
+  {
+    "word": "Replenish",
+    "pos": "Verb",
+    "synonyms": [
+      "Refill",
+      "Recharge"
+    ],
+    "meaning_bengali": "পূরর্ করো"
+  },
+  {
+    "word": "Repudiate",
+    "pos": "Verb",
+    "synonyms": [
+      "Reject",
+      "Renounce"
+    ],
+    "meaning_bengali": "প্রতযোখযোন করো"
+  },
+  {
+    "word": "Resurgence",
+    "pos": "Noun",
+    "synonyms": [
+      "Renewal",
+      "Revival"
+    ],
+    "meaning_bengali": "পুনরুত্থোন"
+  },
+  {
+    "word": "Reticent",
+    "pos": "Adjective",
+    "synonyms": [
+      "Reserved",
+      "Withdrawn"
+    ],
+    "meaning_bengali": "স্বিভোষী"
+  },
+  {
+    "word": "Rigorous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Thorough",
+      "Exhaustive"
+    ],
+    "meaning_bengali": "কমঠোর"
+  },
+  {
+    "word": "Rudimentary",
+    "pos": "Adjective",
+    "synonyms": [
+      "Basic",
+      "Elementary"
+    ],
+    "meaning_bengali": "প্রোথব ক"
+  },
+  {
+    "word": "Ratify",
+    "pos": "Verb",
+    "synonyms": [
+      "Approve"
+    ],
+    "meaning_bengali": "অেুনমাদে করা"
+  },
+  {
+    "word": "Resilient",
+    "pos": "Adjective",
+    "synonyms": [
+      "Strong",
+      "Tough"
+    ],
+    "meaning_bengali": "অটে"
+  },
+  {
+    "word": "Robust",
+    "pos": "Adjective",
+    "synonyms": [
+      "Strong"
+    ],
+    "meaning_bengali": "শক্তিশোেী"
+  },
+  {
+    "word": "Reluctant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unwilling",
+      "Hesitant"
+    ],
+    "meaning_bengali": "অক্লেচ্ছুক"
+  },
+  {
+    "word": "Strenuous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Vigorous",
+      "Laborious"
+    ],
+    "meaning_bengali": "কনঠার"
+  },
+  {
+    "word": "Skeptical",
+    "pos": "Adjective",
+    "synonyms": [
+      "Doubtful"
+    ],
+    "meaning_bengali": "সনেহপ্রবণ"
+  },
+  {
+    "word": "Sustain",
+    "pos": "Verb",
+    "synonyms": [
+      "Support",
+      "Maintain"
+    ],
+    "meaning_bengali": "ি োয রোখো"
+  },
+  {
+    "word": "Simultaneously",
+    "pos": "Adverb",
+    "synonyms": [
+      "Concurrently"
+    ],
+    "meaning_bengali": "একই সানথ"
+  },
+  {
+    "word": "Stable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Steady",
+      "Unchanging"
+    ],
+    "meaning_bengali": "ক্রিক্লতশীল"
+  },
+  {
+    "word": "Strict",
+    "pos": "Adjective",
+    "synonyms": [
+      "Stringent"
+    ],
+    "meaning_bengali": "কড়া"
+  },
+  {
+    "word": "Significant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Important"
+    ],
+    "meaning_bengali": "তাৎপয্জপূণজ, অথজবহ"
+  },
+  {
+    "word": "Same",
+    "pos": "Adjective",
+    "synonyms": [
+      "Identical",
+      "Alike"
+    ],
+    "meaning_bengali": "একই"
+  },
+  {
+    "word": "Subtle",
+    "pos": "Adjective",
+    "synonyms": [
+      "Mild"
+    ],
+    "meaning_bengali": "ক্লেগূঢ়, সূক্ষ্ম"
+  },
+  {
+    "word": "Sluggish",
+    "pos": "Adjective",
+    "synonyms": [
+      "Listless",
+      "Lethargic"
+    ],
+    "meaning_bengali": "অলস"
+  },
+  {
+    "word": "Sagacious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Wise"
+    ],
+    "meaning_bengali": "বিচক্ষর্"
+  },
+  {
+    "word": "Scrupulous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Meticulous"
+    ],
+    "meaning_bengali": "খুুঁতখুুঁমত"
+  },
+  {
+    "word": "Scrutinize",
+    "pos": "Verb",
+    "synonyms": [
+      "Examine"
+    ],
+    "meaning_bengali": "যোচোই-িোছোই করো"
+  },
+  {
+    "word": "Speculation",
+    "pos": "Noun",
+    "synonyms": [
+      "Conjecture"
+    ],
+    "meaning_bengali": "িনো"
+  },
+  {
+    "word": "Sporadic",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unpredictable"
+    ],
+    "meaning_bengali": "বিক্তক্ষপ্ত"
+  },
+  {
+    "word": "Stagnant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Still",
+      "Motionless"
+    ],
+    "meaning_bengali": "ক্তস্থর"
+  },
+  {
+    "word": "Stalemate",
+    "pos": "Noun",
+    "synonyms": [
+      "Impasse"
+    ],
+    "meaning_bengali": "অচেোিস্থো"
+  },
+  {
+    "word": "Steadfast",
+    "pos": "Adjective",
+    "synonyms": [
+      "Resolute"
+    ],
+    "meaning_bengali": "অবিচে"
+  },
+  {
+    "word": "Subside",
+    "pos": "Verb",
+    "synonyms": [
+      "Abate"
+    ],
+    "meaning_bengali": "হ্রোস পোত্তযো"
+  },
+  {
+    "word": "Succinct",
+    "pos": "Adjective",
+    "synonyms": [
+      "Terse",
+      "Concise"
+    ],
+    "meaning_bengali": "সংক্তক্ষপ্ত"
+  },
+  {
+    "word": "Sundry",
+    "pos": "Adjective",
+    "synonyms": [
+      "Assorted",
+      "Various"
+    ],
+    "meaning_bengali": "অমনক ধরমনর"
+  },
+  {
+    "word": "Supercilious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Arrogant",
+      "Haughty"
+    ],
+    "meaning_bengali": "অিংকোরী"
+  },
+  {
+    "word": "Thrive",
+    "pos": "Verb",
+    "synonyms": [
+      "Prosper",
+      "Flourish"
+    ],
+    "meaning_bengali": "সমৃক্লদ্ধশালী হওয়া"
+  },
+  {
+    "word": "Tangible",
+    "pos": "Adjective",
+    "synonyms": [
+      "Concrete"
+    ],
+    "meaning_bengali": "িোস্তি"
+  },
+  {
+    "word": "Timid",
+    "pos": "Adjective",
+    "synonyms": [
+      "Shy"
+    ],
+    "meaning_bengali": "ভীতু"
+  },
+  {
+    "word": "Tranquility",
+    "pos": "Noun",
+    "synonyms": [
+      "Peacefulness"
+    ],
+    "meaning_bengali": "প্রশাক্রন্ত"
+  },
+  {
+    "word": "Temporary",
+    "pos": "Adjective",
+    "synonyms": [
+      "Transitory"
+    ],
+    "meaning_bengali": "অিায়ী, সামক্লয়ক"
+  },
+  {
+    "word": "Tactful",
+    "pos": "Adjective",
+    "synonyms": [
+      "Diplomatic"
+    ],
+    "meaning_bengali": "দকৌশেী"
+  },
+  {
+    "word": "Tenuous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Weak",
+      "Fragile"
+    ],
+    "meaning_bengali": "েুিথে"
+  },
+  {
+    "word": "Thrifty",
+    "pos": "Adjective",
+    "synonyms": [
+      "Economical",
+      "Frugal"
+    ],
+    "meaning_bengali": "ক্লমতবযয়ী"
+  },
+  {
+    "word": "Terse",
+    "pos": "Adjective",
+    "synonyms": [
+      "Brief",
+      "Concise"
+    ],
+    "meaning_bengali": "সংক্তক্ষপ্ত"
+  },
+  {
+    "word": "Torrential",
+    "pos": "Adjective",
+    "synonyms": [
+      "Severe",
+      "Heavy"
+    ],
+    "meaning_bengali": "ূষেধোমর"
+  },
+  {
+    "word": "Trajectory",
+    "pos": "Noun",
+    "synonyms": [
+      "Course",
+      "Route",
+      "Path"
+    ],
+    "meaning_bengali": "েবতপথ"
+  },
+  {
+    "word": "Tranquility",
+    "pos": "Noun",
+    "synonyms": [
+      "Peacefulness"
+    ],
+    "meaning_bengali": "প্রশোক্তন্ত"
+  },
+  {
+    "word": "Transcendental",
+    "pos": "Adjective",
+    "synonyms": [
+      "Otherworldly"
+    ],
+    "meaning_bengali": "অনয োেবতক"
+  },
+  {
+    "word": "Tribulation",
+    "pos": "Noun",
+    "synonyms": [
+      "Affliction"
+    ],
+    "meaning_bengali": "েুেথশো"
+  },
+  {
+    "word": "Trepidation",
+    "pos": "Noun",
+    "synonyms": [
+      "Fear",
+      "Apprehension"
+    ],
+    "meaning_bengali": "ভয"
+  },
+  {
+    "word": "Truncate",
+    "pos": "Verb",
+    "synonyms": [
+      "Shorten",
+      "Curtail"
+    ],
+    "meaning_bengali": "দছোট কমর আনো"
+  },
+  {
+    "word": "Trivial",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unimportant"
+    ],
+    "meaning_bengali": "েগণয"
+  },
+  {
+    "word": "Usually",
+    "pos": "Adverb",
+    "synonyms": [
+      "Generally"
+    ],
+    "meaning_bengali": "সাধারণত"
+  },
+  {
+    "word": "Uncommon",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unusual"
+    ],
+    "meaning_bengali": "অসাধারণ"
+  },
+  {
+    "word": "Ubiquitous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Omnipresent",
+      "Present"
+    ],
+    "meaning_bengali": "সিথত্র বিেয োন"
+  },
+  {
+    "word": "Ulterior",
+    "pos": "Adjective",
+    "synonyms": [
+      "Undisclosed"
+    ],
+    "meaning_bengali": "দেোপন"
+  },
+  {
+    "word": "Unabashed",
+    "pos": "Adjective",
+    "synonyms": [
+      "Shameless"
+    ],
+    "meaning_bengali": "েজ্জোিীন"
+  },
+  {
+    "word": "Unalterable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unchangeable"
+    ],
+    "meaning_bengali": "অপবরিতথনীয"
+  },
+  {
+    "word": "Unambiguous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Clear"
+    ],
+    "meaning_bengali": "স্পষ্ট"
+  },
+  {
+    "word": "Unbiased",
+    "pos": "Adjective",
+    "synonyms": [
+      "Impartial"
+    ],
+    "meaning_bengali": "বনরমপক্ষ"
+  },
+  {
+    "word": "Unbridled",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unrestrained"
+    ],
+    "meaning_bengali": "েোেো িীন"
+  },
+  {
+    "word": "Unchartered",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unexplored"
+    ],
+    "meaning_bengali": "অনোবিষ্কৃত"
+  },
+  {
+    "word": "Unconventional",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unusual",
+      "Unorthodox"
+    ],
+    "meaning_bengali": "অপ্রচক্তেত"
+  },
+  {
+    "word": "Undaunted",
+    "pos": "Adjective",
+    "synonyms": [
+      "Fearless",
+      "Unafraid"
+    ],
+    "meaning_bengali": "বনভীক"
+  },
+  {
+    "word": "Unequivocal",
+    "pos": "Adjective",
+    "synonyms": [
+      "Clear",
+      "Unambiguous"
+    ],
+    "meaning_bengali": "স্পষ্ট"
+  },
+  {
+    "word": "Unfaltering",
+    "pos": "Adjective",
+    "synonyms": [
+      "Steady",
+      "Resolute"
+    ],
+    "meaning_bengali": "অবিচে"
+  },
+  {
+    "word": "Unfettered",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unrestrained"
+    ],
+    "meaning_bengali": "অিোধ"
+  },
+  {
+    "word": "Unfounded",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unwarranted"
+    ],
+    "meaning_bengali": "বভক্তত্তিীন"
+  },
+  {
+    "word": "Unmitigated",
+    "pos": "Adjective",
+    "synonyms": [
+      "Absolute"
+    ],
+    "meaning_bengali": "চর"
+  },
+  {
+    "word": "Unorthodox",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unconventional"
+    ],
+    "meaning_bengali": "অপ্রচক্তেত"
+  },
+  {
+    "word": "Unparalleled",
+    "pos": "Adjective",
+    "synonyms": [
+      "Incomparable"
+    ],
+    "meaning_bengali": "অতুেনীয"
+  },
+  {
+    "word": "Unprecedented",
+    "pos": "Adjective",
+    "synonyms": [
+      "Revolutionary"
+    ],
+    "meaning_bengali": "অভূতপূিথ"
+  },
+  {
+    "word": "Untenable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Insupportable"
+    ],
+    "meaning_bengali": "অস থথনমযোেয"
+  },
+  {
+    "word": "Unwavering",
+    "pos": "Adjective",
+    "synonyms": [
+      "Steady",
+      "Steadfast"
+    ],
+    "meaning_bengali": "অটে"
+  },
+  {
+    "word": "Vacant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unoccupied",
+      "Empty"
+    ],
+    "meaning_bengali": "খাক্রল, ফুঁাকা"
+  },
+  {
+    "word": "Vanquish",
+    "pos": "Verb",
+    "synonyms": [
+      "Conquer"
+    ],
+    "meaning_bengali": "পরাভূত করা"
+  },
+  {
+    "word": "Verdict",
+    "pos": "Noun",
+    "synonyms": [
+      "Judgement"
+    ],
+    "meaning_bengali": "রায়"
+  },
+  {
+    "word": "Vast",
+    "pos": "Adjective",
+    "synonyms": [
+      "Huge",
+      "Colossal"
+    ],
+    "meaning_bengali": "ক্লবশাল"
+  },
+  {
+    "word": "Versatile",
+    "pos": "Adjective",
+    "synonyms": [
+      "Adaptable"
+    ],
+    "meaning_bengali": "বহু ক্লবেনয় পক্রণ্ডত"
+  },
+  {
+    "word": "Virtuous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Moral",
+      "Righteous"
+    ],
+    "meaning_bengali": "পুর্যিোন"
+  },
+  {
+    "word": "Vary",
+    "pos": "Verb",
+    "synonyms": [
+      "Differ"
+    ],
+    "meaning_bengali": "ক্লভন্নতা, পার্কি য"
+  },
+  {
+    "word": "Valiant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Courageous",
+      "Brave"
+    ],
+    "meaning_bengali": "সাহসী"
+  },
+  {
+    "word": "Violent",
+    "pos": "Adjective",
+    "synonyms": [
+      "Brutal",
+      "Savage"
+    ],
+    "meaning_bengali": "ক্লহংস্র, উগ্র"
+  },
+  {
+    "word": "Victory",
+    "pos": "Noun",
+    "synonyms": [
+      "Triumph",
+      "Win",
+      "Success"
+    ],
+    "meaning_bengali": "ক্লবজয়"
+  },
+  {
+    "word": "Vague",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unclear",
+      "Obscure"
+    ],
+    "meaning_bengali": "অস্পষ্ট"
+  },
+  {
+    "word": "Voluntary",
+    "pos": "Adjective",
+    "synonyms": [
+      "Willingly"
+    ],
+    "meaning_bengali": "পস্বচ্ছাকৃত"
+  },
+  {
+    "word": "Viable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Feasible"
+    ],
+    "meaning_bengali": "সম্ভব, সম্ভাবয"
+  },
+  {
+    "word": "Vacillate",
+    "pos": "Verb",
+    "synonyms": [
+      "Fluctuate",
+      "Waver"
+    ],
+    "meaning_bengali": "ক্তস্থর নো থোকো"
+  },
+  {
+    "word": "Vacuous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Blank",
+      "Vacant"
+    ],
+    "meaning_bengali": "শূনয"
+  },
+  {
+    "word": "Vagary",
+    "pos": "Noun",
+    "synonyms": [
+      "Peculiarity"
+    ],
+    "meaning_bengali": "অবনমেথশযতো"
+  },
+  {
+    "word": "Vainglorious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Arrogant"
+    ],
+    "meaning_bengali": "অিংকোরী"
+  },
+  {
+    "word": "Validate",
+    "pos": "Verb",
+    "synonyms": [
+      "Confirm",
+      "Verify"
+    ],
+    "meaning_bengali": "যোচোই করো"
+  },
+  {
+    "word": "Vapid",
+    "pos": "Adjective",
+    "synonyms": [
+      "Insipid",
+      "Uninteresting"
+    ],
+    "meaning_bengali": "স্বোেিীন"
+  },
+  {
+    "word": "Vaunt",
+    "pos": "Verb",
+    "synonyms": [
+      "Brag"
+    ],
+    "meaning_bengali": "িড়োই করো"
+  },
+  {
+    "word": "Vehement",
+    "pos": "Adjective",
+    "synonyms": [
+      "Passionate",
+      "Ardent"
+    ],
+    "meaning_bengali": "প্রিেভোমি"
+  },
+  {
+    "word": "Venerable",
+    "pos": "Adjective",
+    "synonyms": [
+      "Respected",
+      "Revered"
+    ],
+    "meaning_bengali": "শ্রমদ্ধয"
+  },
+  {
+    "word": "Venturesome",
+    "pos": "Adjective",
+    "synonyms": [
+      "Audacious",
+      "Bold"
+    ],
+    "meaning_bengali": "উমেযোেী"
+  },
+  {
+    "word": "Veracity",
+    "pos": "Noun",
+    "synonyms": [
+      "Truth",
+      "Authenticity"
+    ],
+    "meaning_bengali": "সতযতো"
+  },
+  {
+    "word": "Verbiage",
+    "pos": "Noun",
+    "synonyms": [
+      "Verbosity",
+      "Wordiness"
+    ],
+    "meaning_bengali": "শব্দিোহুেয"
+  },
+  {
+    "word": "Verbose",
+    "pos": "Adjective",
+    "synonyms": [
+      "Wordiness"
+    ],
+    "meaning_bengali": "অবতবরি শব্দ িযিিোর"
+  },
+  {
+    "word": "Verity",
+    "pos": "Noun",
+    "synonyms": [
+      "Truth"
+    ],
+    "meaning_bengali": "সতযতো"
+  },
+  {
+    "word": "Verve",
+    "pos": "Noun",
+    "synonyms": [
+      "Energy",
+      "Enthusiasm"
+    ],
+    "meaning_bengali": "উদ্দীপনো"
+  },
+  {
+    "word": "Vex",
+    "pos": "Verb",
+    "synonyms": [
+      "Irritate",
+      "Annoy",
+      "Irk"
+    ],
+    "meaning_bengali": "বিরি করো"
+  },
+  {
+    "word": "Vibrant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Spirited",
+      "Energetic"
+    ],
+    "meaning_bengali": "প্রোর্িন্ত"
+  },
+  {
+    "word": "Vicarious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Secondhand"
+    ],
+    "meaning_bengali": "অনয কোরও োধযম বকছু"
+  },
+  {
+    "word": "Vigilant",
+    "pos": "Adjective",
+    "synonyms": [
+      "Watchful",
+      "Careful"
+    ],
+    "meaning_bengali": "সতকথ থোকো"
+  },
+  {
+    "word": "Vilify",
+    "pos": "Verb",
+    "synonyms": [
+      "Insult",
+      "Belittle"
+    ],
+    "meaning_bengali": "অপ োন করো"
+  },
+  {
+    "word": "Vindicate",
+    "pos": "Verb",
+    "synonyms": [
+      "Acquit",
+      "Declare"
+    ],
+    "meaning_bengali": "দিকসুর দঘোষর্ো করো"
+  },
+  {
+    "word": "Vindictive",
+    "pos": "Adjective",
+    "synonyms": [
+      "Vengeful",
+      "Revengeful"
+    ],
+    "meaning_bengali": "প্রবতবিংসোপরোযর্"
+  },
+  {
+    "word": "Vital",
+    "pos": "Adjective",
+    "synonyms": [
+      "Crucial",
+      "Important"
+    ],
+    "meaning_bengali": "গুরুত্বপূর্থ"
+  },
+  {
+    "word": "Vitriolic",
+    "pos": "Adjective",
+    "synonyms": [
+      "Spiteful",
+      "Bitter"
+    ],
+    "meaning_bengali": "বতি"
+  },
+  {
+    "word": "Vivacious",
+    "pos": "Adjective",
+    "synonyms": [
+      "Energetic",
+      "Spirited"
+    ],
+    "meaning_bengali": "প্রোর্িন্ত"
+  },
+  {
+    "word": "Vivid",
+    "pos": "Adjective",
+    "synonyms": [
+      "Bright",
+      "Colorful"
+    ],
+    "meaning_bengali": "উজ্জ্বে"
+  },
+  {
+    "word": "Voluminous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Big",
+      "Large",
+      "Spacious"
+    ],
+    "meaning_bengali": "বিশোে"
+  },
+  {
+    "word": "Vulnerable",
+    "pos": "Noun",
+    "synonyms": [
+      "Unguarded"
+    ],
+    "meaning_bengali": "েুিথে"
+  },
+  {
+    "word": "Want",
+    "pos": "Verb",
+    "synonyms": [
+      "Desire"
+    ],
+    "meaning_bengali": "চাওয়া, চাক্লহদা"
+  },
+  {
+    "word": "Withstand",
+    "pos": "Verb",
+    "synonyms": [
+      "Resist"
+    ],
+    "meaning_bengali": "প্রবতিত করো"
+  },
+  {
+    "word": "Waive",
+    "pos": "Verb",
+    "synonyms": [
+      "Relinquish",
+      "Renounce"
+    ],
+    "meaning_bengali": "পবরতযোে করো"
+  },
+  {
+    "word": "Weak",
+    "pos": "Adjective",
+    "synonyms": [
+      "Feeble"
+    ],
+    "meaning_bengali": "দুবজল"
+  },
+  {
+    "word": "Wary",
+    "pos": "Adjective",
+    "synonyms": [
+      "Careful",
+      "Adjective"
+    ],
+    "meaning_bengali": "সতকথ"
+  },
+  {
+    "word": "Welter",
+    "pos": "Noun",
+    "synonyms": [
+      "Clutter",
+      "Hotchpotch"
+    ],
+    "meaning_bengali": "বিশৃঙ্খেো"
+  },
+  {
+    "word": "Whimsical",
+    "pos": "Adjective",
+    "synonyms": [
+      "Unpredictable",
+      "Erratic"
+    ],
+    "meaning_bengali": "অবনচ্ছিত"
+  },
+  {
+    "word": "Wistful",
+    "pos": "Adjective",
+    "synonyms": [
+      "Yearning"
+    ],
+    "meaning_bengali": "আকুে আকোিো থোকো"
+  },
+  {
+    "word": "Withered",
+    "pos": "Adjective",
+    "synonyms": [
+      "Shriveled",
+      "Dry"
+    ],
+    "meaning_bengali": "শুবকময যোওযো"
+  },
+  {
+    "word": "Wondrous",
+    "pos": "Adjective",
+    "synonyms": [
+      "Marvelous",
+      "Wonderful"
+    ],
+    "meaning_bengali": "বিস্মযকর"
+  },
+  {
+    "word": "Yield",
+    "pos": "Verb",
+    "synonyms": [
+      "Produce",
+      "Bear"
+    ],
+    "meaning_bengali": "উৎপাদে করা"
+  },
+  {
+    "word": "Yell",
+    "pos": "Verb",
+    "synonyms": [
+      "Shout"
+    ],
+    "meaning_bengali": "ক্লচৎকার করা"
+  },
+  {
+    "word": "Zenith",
+    "pos": "Noun",
+    "synonyms": [
+      "Culmination",
+      "Top"
+    ],
+    "meaning_bengali": "সমিথোচ্চ স্থোন"
+  }
+]
