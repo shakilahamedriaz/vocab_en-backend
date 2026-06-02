@@ -28,7 +28,7 @@ class Settings(BaseSettings):
     GOOGLE_CLIENT_SECRET: str = ""
     
     # CORS — add your Vercel URL via CORS_ORIGINS env var in production
-    CORS_ORIGINS: list = ["http://localhost:5173", "http://localhost:3000"]
+    CORS_ORIGINS: list = ["http://localhost:5173", "http://localhost:3000", "https://vocab-en.vercel.app"]
     FRONTEND_URL: str = ""
 
     @property
